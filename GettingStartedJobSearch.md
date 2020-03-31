@@ -76,7 +76,7 @@ This endpoint returns the logo for a given ad's id number.
 If no logo exists, a 1x1 pixel size white image is returned.
 
 ### Jobtech-Taxonomy 
-If you need help finding the official names for occupations, skills, or geographic locations you will find them in our [Taxonomy API](https://jobtechdev.se/docs/taxonomy/getting-started/)
+If you need help finding the official names for occupations, skills, or geographic locations you will find them in our [Taxonomy API](https://jobtechdev.se/docs/taxonomy/)
 
 ## Results
 The results of your queries will be in [JSON](https://en.wikipedia.org/wiki/JSON) format. We won't attempt to explain this attribute by attribute in this document. Instead we've decided to try to include this in the data model which you can find in our [Swagger-GUI](https://jobsearch.api.jobtechdev.se).
